@@ -1,6 +1,6 @@
 # SpaceShip_RBController
  
-This is a project developed during my course of study, in which I was trying to emulate the movement of a space ship, moving the space ship with its rigid body and rotating its orientation with the quaternion. Unity version 2020.1.6f1.
+This is a project developed during my course of study, in which I was trying to emulate the movement of a spaceship, moving the spaceship with its rigid body and rotating its orientation with the quaternion. Unity version 2020.1.6f1.
 
 ## Commands
 - Player movements
